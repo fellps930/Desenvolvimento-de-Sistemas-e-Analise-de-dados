@@ -11,7 +11,7 @@ Bruce Wayne observava a cidade de seu escritório, refletindo não sobre crimes,
 ## Capítulo 2: O Secador de Gelo
 
 Enquanto isso, nos becos da cidade, um homem trabalhava em silêncio.  
-Seu nome era **Gélson Frio**, conhecido como *O Secador de Gelo*.  
+Seu nome era **Gélson Geladinho**, conhecido como *O Secador de Gelo*.  
 Sua profissão? Impedir que o gelo derretesse nas câmaras criogênicas dos laboratórios clandestinos de Gotham.
 
 Gélson sabia que seu emprego era tão absurdo quanto precário. Ganhava pouco, mas gastava muito.  
@@ -20,7 +20,7 @@ Ele acreditava que quanto mais comprasse, mais feliz ficaria — até descobrir 
 ## Capítulo 3: O Encontro Congelante
 
 Uma noite, Batman apareceu.  
-O herói observou Gélson trabalhando, enxugando gotas de suor com as mãos geladas.
+O herói observou Gélson Geladinho trabalhando, enxugando gotas de suor com as mãos geladas.
 
 — “Por que você faz isso?”, perguntou Batman.  
 — “Porque preciso de dinheiro... e não sei viver sem gastar.”  
