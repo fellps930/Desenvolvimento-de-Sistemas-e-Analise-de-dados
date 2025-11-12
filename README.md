@@ -32,7 +32,7 @@ Essas palavras atravessaram o homem como uma rajada de vento polar. Pela primeir
 
 ## Capítulo 4: O Descongelamento Interior
 
-Com o tempo, Gélson começou a aplicar os princípios da **psicologia financeira** que aprendeu com Bruce.  
+Com o tempo, Gélson começou a aplicar os princípios da **psicologia financeira** que aprendeu com Bruce.  Jogando poker no Cabaré Gotham.
 Passou a entender seus impulsos, seus gatilhos, seu desejo de status.  
 A cada escolha consciente, ele secava não o gelo, mas o **excesso de culpa e ansiedade** que o prendia.
 
