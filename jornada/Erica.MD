@@ -5,7 +5,9 @@ O Siga não é uma ferramenta ruim porém pode melhorar, como a interface e UX D
 
 Como é a rotina. 
 Bate ponto
-Conferir inconsistências, se tem o plano de aula, e se lançou as presenças dos alunos.
+Conferir inconsistências,
+se tem o plano de aula, 
+e se lançou as presenças dos alunos.
 Verifica as faltas dos alunos.
 
 Casos exporádicos
