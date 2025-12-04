@@ -6,6 +6,6 @@
 
 ## Requisitos não Funcionais
 
-1.O sistema deve ter uma interface intuitiva e limpa para o usuário conseguir utilizar ele de maneira produtiva
-2.O sistema deve possuir uma maneira do usuário utilizar-se de suas credenciais para realizar login
-3.O sistema deve ter grande parte de suas funções automatizada para evitar fadiga
+1. O sistema deve ter uma interface intuitiva e limpa para o usuário conseguir utilizar ele de maneira produtiva
+2. O sistema deve possuir uma maneira do usuário utilizar-se de suas credenciais para realizar login
+3. O sistema deve ter grande parte de suas funções automatizada para evitar fadiga
