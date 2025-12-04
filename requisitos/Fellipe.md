@@ -1,4 +1,4 @@
-#Requisitos fúncionais
+##Requisitos fúncionais
 
 1.Cálculo automatico de horas de curso cada em quantas aulas tera.
 2.Organização do horario dos professores de forma que não ultrapasse a quantidade de horas dos professores.
