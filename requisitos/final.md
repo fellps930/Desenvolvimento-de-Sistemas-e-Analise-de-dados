@@ -29,6 +29,12 @@ Relatórios de Inconsistências - Gerar relatórios periódicos de inconsistênc
 
 Gestão de Plano de Aula e Evidências - Registrar se existe plano de aula associado à data/horário e permitir upload/visualização de anexos. Alertar quando aula ministrada não possui plano.
 
+Verificador automatico de presença/falta.
+
+Calendário com todas asdatas importantes (feriados por exemplo), com opções de descrição
+
+Integração com professores em tempo real se possivel
+
 Requisitos Não-Funcionais
  Relatório gerado no formato CSV para a formatação de planilhas via excel ou google. 
  
@@ -57,3 +63,9 @@ Desempenho: O sistema deve carregar qualquer tela principal em no máximo 3 segu
 Disponibilidade: O sistema deve garantir disponibilidade mínima de 99% durante o horário escolar (18h às 22h), exceto em períodos programados de manutenção.
 
 Segurança Privacidade Manutenibilidade Integridade de dados Mecanismo de reconciliação com SIGA e arquivos CSV.
+
+Enviar notificações sempre que algo estiver demorando. Ex: feedback dos professores.
+
+Sistema intuitivo.
+
+Pontuar os usuários que cumprirem suas "metas" no sistema.
