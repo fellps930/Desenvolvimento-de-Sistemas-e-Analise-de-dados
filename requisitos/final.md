@@ -1,6 +1,13 @@
 Requisitos Funcionais =
  Um meio para poder se informar acerca do total de alunos que faltaram no dia anterior junto com o número de contato válido de cada um 
- 
+
+Cadastro de Alunos: O sistema deve permitir o cadastro, edição e exclusão de dados dos alunos (nome, endereço, documentos, responsáveis, etc.).
+
+Emissão de Boletins e Históricos: O sistema deve gerar boletins, históricos escolares e declarações oficiais em formato PDF.
+
+Controle de Matrículas e Rematrículas: O sistema deve permitir realizar matrículas, rematrículas e transferência de turmas ou cursos.
+
+
  Automação para verificar os feriados da cidade Goiânia, Goiás, Brasil e calcular automaticamente o dia de finalização
  
  Uma forma de verificar automaticamente todos os professores que lançaram os planos de aula no dia anterior juntamente com as pendências de cada    professor.
@@ -42,5 +49,11 @@ Relatórios: geração CSV em ≤ 10s; PDF em ≤ 15s para um semestre.
 Disponibilidade - Sistema disponível 99,5% do tempo . 
 
 Escalabilidade - Arquitetura que suporte crescimento linear de usuários; separação entre serviços de mensagens e core. 
+
+Segurança da Informação: Os dados dos alunos e documentos devem ser armazenados de forma criptografada e acessíveis apenas mediante autenticação.
+
+Desempenho: O sistema deve carregar qualquer tela principal em no máximo 3 segundos com com carga aceitavel de usuários simultâneos.
+
+Disponibilidade: O sistema deve garantir disponibilidade mínima de 99% durante o horário escolar (18h às 22h), exceto em períodos programados de manutenção.
 
 Segurança Privacidade Manutenibilidade Integridade de dados Mecanismo de reconciliação com SIGA e arquivos CSV.
