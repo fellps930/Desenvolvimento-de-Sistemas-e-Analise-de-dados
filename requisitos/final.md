@@ -24,9 +24,13 @@ Calculo de horas aulas e disponibilidade do professor - Calcular horas-aula por 
 
 Organização das disciplinas e professores - Interface para mapear disciplinas e professores, com sugestões automáticas baseadas em disponibilidade e carga horária, além disso bloquear automaticamente que exceda carga máxima do professor.
 
-Relatórios de Inconsistências - Gerar relatórios periódicos de inconsistências (faltas sem justificativa, aulas sem plano, faltas com lançamento incompleto). Exportar relatórios (PDF/CSV) e enviar para coordenadpores responsáveis.
+Relatórios de Inconsistências - Gerar relatórios periódicos de inconsistências (faltas sem justificativa, aulas sem plano, faltas com lançamento incompleto). 
 
-Gestão de Plano de Aula e Evidências - Registrar se existe plano de aula associado à data/horário e permitir upload/visualização de anexos. Alertar quando aula ministrada não possui plano.
+Exportar relatórios (PDF/CSV) e enviar para coordenadpores responsáveis.
+
+Gestão de Plano de Aula e Evidências - Registrar se existe plano de aula associado à data/horário e permitir upload/visualização de anexos.
+
+Alertar quando aula ministrada não possui plano.
 
 Requisitos Não-Funcionais
  Relatório gerado no formato CSV para a formatação de planilhas via excel ou google. 
