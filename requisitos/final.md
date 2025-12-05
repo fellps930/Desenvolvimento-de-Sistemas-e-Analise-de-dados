@@ -1,6 +1,12 @@
 Requisitos Funcionais =
  Um meio para poder se informar acerca do total de alunos que faltaram no dia anterior junto com o número de contato válido de cada um 
+
+ O sistema deve ser capaz de verificar automaticamente incoerências relacionados a faltas nos cursos
  
+ O sistema deve ser capaz de verificar os feriados de Goiânia,Goiás e calcular automaticamente o planejamento de aula
+ 
+ O sistema deve conseguir verificar se os professores enviaram planos de aula
+
  Automação para verificar os feriados da cidade Goiânia, Goiás, Brasil e calcular automaticamente o dia de finalização
  
  Uma forma de verificar automaticamente todos os professores que lançaram os planos de aula no dia anterior juntamente com as pendências de cada    professor.
@@ -27,8 +33,13 @@ Requisitos Não-Funcionais
  
  Usar uma biblioteca externa para a visualização da tabela, como data tables 
  
-  Obter esses dados via web scraping por meio do desenvolvimento e mapeamento do sistema.
+ Obter esses dados via web scraping por meio do desenvolvimento e mapeamento do sistema.
 
+ O sistema deve ter uma interface intuitiva e limpa para o usuário conseguir utilizar ele de maneira produtiva
+ 
+O sistema deve possuir uma maneira do usuário utilizar-se de suas credenciais para realizar login
+
+O sistema deve ter grande parte de suas funções automatizada para evitar fadiga
 
  Requisito não funcional Determinar se o professor lançou a chamada até 20 horas após término de aula 
 
