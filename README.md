@@ -1,47 +1,30 @@
-# 🦇 Batman e o Mistério do Secador de Gelo 💰❄️
+#  Tabela automatizada de horários
+## Apresentação do produto
 
-## Capítulo 1: A Cidade Congelada
+Uma site que irá receber um CSV com o horários dos professores e vai tentar calcular o melhor horário para adicionar uma nova disciplina junto a apitidão de cada professor para poder ministrar.
 
-Era uma noite fria em **Gotham City**. O ar carregava um silêncio pesado, quebrado apenas pelo som distante das sirenes e do vento batendo nas janelas da **Wayne Tower**.  
-Bruce Wayne observava a cidade de seu escritório, refletindo não sobre crimes, mas sobre **dinheiro** — e o poder que ele exercia sobre as pessoas.
+## Como iremos implementar isso? 
+Separar duas tabelas com apitidão dos professores e outra tabela com horários do professores. 
+Aba para verificar o limite de horário dos professores de acordo com o limite estabelecido de hora aula 
+Colocar no site um gerador de horário dos professores
+Aba para coodernação
+Aba para gerar apitidão
+Aba para gerar horário
+Em outra aba realiza a união de todos os horários e as apitidão
+Restrição - Não podemos armazenar dados dos professores por conta da LGPD
 
-> “O medo controla os pobres. A culpa controla os ricos.”  
-> Pensou Batman, lembrando-se de uma das aulas de **psicologia financeira** que ele mesmo havia financiado na Fundação Wayne.
 
-## Capítulo 2: O Secador de Gelo
+## Requisitos
+### Funcionais
+- Não pode armazenar dados no banco de dados.
+- Interfase simples
+- Não precisa de usuário e senha
+- Três abas diferentes, sendo uma para gerar o horário do professor, outra para gerar apitidão e última para realizar a comparação da duas tabelas
+- Especificar a matéria faltante 
 
-Enquanto isso, nos becos da cidade, um homem trabalhava em silêncio.  
-Seu nome era **Gélson Geladinho**, conhecido como *O Secador de Gelo*.  
-Sua profissão? Impedir que o gelo derretesse nas câmaras criogênicas dos laboratórios clandestinos de Gotham.
+### Não funcionais 
+- Campo para anexar todos os CSVs de uma vez
+- 
+- 
 
-Gélson sabia que seu emprego era tão absurdo quanto precário. Ganhava pouco, mas gastava muito.  
-Ele acreditava que quanto mais comprasse, mais feliz ficaria — até descobrir o vazio de seu cartão de crédito e o frio da solidão.
 
-## Capítulo 3: O Encontro Congelante
-
-Uma noite, Batman apareceu.  
-O herói observou Gélson Geladinho trabalhando, enxugando gotas de suor com as mãos geladas.
-
-— “Por que você faz isso?”, perguntou Batman.  
-— “Porque preciso de dinheiro... e não sei viver sem gastar.”  
-
-Batman o fitou por um instante.  
-— “Você não está secando gelo, Gélson. Está tentando congelar o medo de ser pobre.”  
-
-Essas palavras atravessaram o homem como uma rajada de vento polar. Pela primeira vez, ele entendeu: **sua luta era emocional, não financeira.**
-
-## Capítulo 4: O Descongelamento Interior
-
-Com o tempo, Gélson começou a aplicar os princípios da **psicologia financeira** que aprendeu com Bruce.  Jogando poker no Cabaré Gotham.
-Passou a entender seus impulsos, seus gatilhos, seu desejo de status.  
-A cada escolha consciente, ele secava não o gelo, mas o **excesso de culpa e ansiedade** que o prendia.
-
-Batman, ao vê-lo prosperar, sorriu sob a máscara.
-
-> “Salvar Gotham não é só combater o crime.  
-> Às vezes, é ajudar alguém a descongelar o próprio coração.”
-
----
-
-**Moral da história:**  
-> O verdadeiro herói é quem entende que o dinheiro não compra paz — mas o autoconhecimento pode economizar muita dor. 💭💸  
