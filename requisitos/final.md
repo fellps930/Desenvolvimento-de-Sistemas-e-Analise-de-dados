@@ -41,6 +41,12 @@ O sistema deve possuir uma maneira do usuário utilizar-se de suas credenciais p
 
 O sistema deve ter grande parte de suas funções automatizada para evitar fadiga
 
+Cálculo automatico de horas de curso cada em quantas aulas tera.
+
+Organização do horario dos professores de forma que não ultrapasse a quantidade de horas dos professores.
+
+Consulta rápida dos alunos que faltaram e estavam presentes na aula.
+
  Requisito não funcional Determinar se o professor lançou a chamada até 20 horas após término de aula 
 
 Usabilidade - Coordenador consegue executar as 5 tarefas críticas em ≤ 3 cliques. 
@@ -53,5 +59,11 @@ Relatórios: geração CSV em ≤ 10s; PDF em ≤ 15s para um semestre.
 Disponibilidade - Sistema disponível 99,5% do tempo . 
 
 Escalabilidade - Arquitetura que suporte crescimento linear de usuários; separação entre serviços de mensagens e core. 
+
+Sistema simples e intuitivo.
+
+Multitarefas para conseguir executar multiplas funções simultaneamente.
+
+Performace otimizada como atualização da lista de faltas de 1700 alunos em 3 segundos.
 
 Segurança Privacidade Manutenibilidade Integridade de dados Mecanismo de reconciliação com SIGA e arquivos CSV.
