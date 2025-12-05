@@ -1,4 +1,10 @@
 Requisitos Funcionais =
+ Um meio para poder se informar acerca do total de alunos que faltaram no dia anterior junto com o número de contato válido de cada um 
+ 
+ Automação para verificar os feriados da cidade Goiânia, Goiás, Brasil e calcular automaticamente o dia de finalização
+ 
+ Uma forma de verificar automaticamente todos os professores que lançaram os planos de aula no dia anterior juntamente com as pendências de cada    professor.
+
 Importação/Sincronização - O sistema vai importar automaticamente turmas, disciplinas, horários, presença e cadastro de alunos/professores no SIGA
 
 Notificação/ Contactação automática - Enviar notificações automáticas aos alunos faltosos via WhatsApp , SMS ou e-mail, acionadas por regra (ex.: faltar 1ª vez, 2º faltas consecutivas).
@@ -17,6 +23,12 @@ Relatórios de Inconsistências - Gerar relatórios periódicos de inconsistênc
 Gestão de Plano de Aula e Evidências - Registrar se existe plano de aula associado à data/horário e permitir upload/visualização de anexos. Alertar quando aula ministrada não possui plano.
 
 Requisitos Não-Funcionais
+ Relatório gerado no formato CSV para a formatação de planilhas via excel ou google. 
+ 
+ Usar uma biblioteca externa para a visualização da tabela, como data tables 
+ 
+  Obter esses dados via web scraping por meio do desenvolvimento e mapeamento do sistema.
+
 
  Requisito não funcional Determinar se o professor lançou a chamada até 20 horas após término de aula 
 
