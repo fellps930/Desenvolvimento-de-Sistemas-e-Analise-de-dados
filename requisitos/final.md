@@ -6,6 +6,12 @@ Requisitos Funcionais =
  O sistema deve ser capaz de verificar os feriados de Goiânia,Goiás e calcular automaticamente o planejamento de aula
  
  O sistema deve conseguir verificar se os professores enviaram planos de aula
+Cadastro de Alunos: O sistema deve permitir o cadastro, edição e exclusão de dados dos alunos (nome, endereço, documentos, responsáveis, etc.).
+
+Emissão de Boletins e Históricos: O sistema deve gerar boletins, históricos escolares e declarações oficiais em formato PDF.
+
+Controle de Matrículas e Rematrículas: O sistema deve permitir realizar matrículas, rematrículas e transferência de turmas ou cursos.
+
 
  Automação para verificar os feriados da cidade Goiânia, Goiás, Brasil e calcular automaticamente o dia de finalização
  
@@ -69,5 +75,10 @@ Sistema simples e intuitivo.
 Multitarefas para conseguir executar multiplas funções simultaneamente.
 
 Performace otimizada como atualização da lista de faltas de 1700 alunos em 3 segundos.
+Segurança da Informação: Os dados dos alunos e documentos devem ser armazenados de forma criptografada e acessíveis apenas mediante autenticação.
+
+Desempenho: O sistema deve carregar qualquer tela principal em no máximo 3 segundos com com carga aceitavel de usuários simultâneos.
+
+Disponibilidade: O sistema deve garantir disponibilidade mínima de 99% durante o horário escolar (18h às 22h), exceto em períodos programados de manutenção.
 
 Segurança Privacidade Manutenibilidade Integridade de dados Mecanismo de reconciliação com SIGA e arquivos CSV.
