@@ -1,6 +1,11 @@
 Requisitos Funcionais =
  Um meio para poder se informar acerca do total de alunos que faltaram no dia anterior junto com o número de contato válido de cada um 
 
+ O sistema deve ser capaz de verificar automaticamente incoerências relacionados a faltas nos cursos
+ 
+ O sistema deve ser capaz de verificar os feriados de Goiânia,Goiás e calcular automaticamente o planejamento de aula
+ 
+ O sistema deve conseguir verificar se os professores enviaram planos de aula
 Cadastro de Alunos: O sistema deve permitir o cadastro, edição e exclusão de dados dos alunos (nome, endereço, documentos, responsáveis, etc.).
 
 Emissão de Boletins e Históricos: O sistema deve gerar boletins, históricos escolares e declarações oficiais em formato PDF.
@@ -25,17 +30,32 @@ Calculo de horas aulas e disponibilidade do professor - Calcular horas-aula por 
 
 Organização das disciplinas e professores - Interface para mapear disciplinas e professores, com sugestões automáticas baseadas em disponibilidade e carga horária, além disso bloquear automaticamente que exceda carga máxima do professor.
 
-Relatórios de Inconsistências - Gerar relatórios periódicos de inconsistências (faltas sem justificativa, aulas sem plano, faltas com lançamento incompleto). Exportar relatórios (PDF/CSV) e enviar para coordenadpores responsáveis.
+Relatórios de Inconsistências - Gerar relatórios periódicos de inconsistências (faltas sem justificativa, aulas sem plano, faltas com lançamento incompleto). 
 
-Gestão de Plano de Aula e Evidências - Registrar se existe plano de aula associado à data/horário e permitir upload/visualização de anexos. Alertar quando aula ministrada não possui plano.
+Exportar relatórios (PDF/CSV) e enviar para coordenadpores responsáveis.
+
+Gestão de Plano de Aula e Evidências - Registrar se existe plano de aula associado à data/horário e permitir upload/visualização de anexos.
+
+Alertar quando aula ministrada não possui plano.
 
 Requisitos Não-Funcionais
  Relatório gerado no formato CSV para a formatação de planilhas via excel ou google. 
  
  Usar uma biblioteca externa para a visualização da tabela, como data tables 
  
-  Obter esses dados via web scraping por meio do desenvolvimento e mapeamento do sistema.
+ Obter esses dados via web scraping por meio do desenvolvimento e mapeamento do sistema.
 
+ O sistema deve ter uma interface intuitiva e limpa para o usuário conseguir utilizar ele de maneira produtiva
+ 
+O sistema deve possuir uma maneira do usuário utilizar-se de suas credenciais para realizar login
+
+O sistema deve ter grande parte de suas funções automatizada para evitar fadiga
+
+Cálculo automatico de horas de curso cada em quantas aulas tera.
+
+Organização do horario dos professores de forma que não ultrapasse a quantidade de horas dos professores.
+
+Consulta rápida dos alunos que faltaram e estavam presentes na aula.
 
  Requisito não funcional Determinar se o professor lançou a chamada até 20 horas após término de aula 
 
@@ -50,6 +70,11 @@ Disponibilidade - Sistema disponível 99,5% do tempo .
 
 Escalabilidade - Arquitetura que suporte crescimento linear de usuários; separação entre serviços de mensagens e core. 
 
+Sistema simples e intuitivo.
+
+Multitarefas para conseguir executar multiplas funções simultaneamente.
+
+Performace otimizada como atualização da lista de faltas de 1700 alunos em 3 segundos.
 Segurança da Informação: Os dados dos alunos e documentos devem ser armazenados de forma criptografada e acessíveis apenas mediante autenticação.
 
 Desempenho: O sistema deve carregar qualquer tela principal em no máximo 3 segundos com com carga aceitavel de usuários simultâneos.
