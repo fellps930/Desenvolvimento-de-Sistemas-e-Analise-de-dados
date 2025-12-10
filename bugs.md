@@ -5,7 +5,6 @@ PRÁTICAS RECOMENDADAS: 100
 SE0 ( garantem que sua página siga orientações básicas para otimização de mecanismos de pesquisa) 90
 
 Auditorias aprovadas (13)
-Ocultar
 Utiliza HTTPS
 Evita APIs obsoletas
 Evita cookies de terceiros
