@@ -19,3 +19,14 @@ Define corretamente o charset
 Nenhum erro do navegador registrado no console
 Nenhum problema no painel Issues do Chrome Devtools
 A página tem mapas de origem válidos
+
+O que acontece se eu carregar um arquivo CSV vazio?
+O SISTEMA NAO ACEITA O UPLOAD DE ARQUIVOS VAZIOS, E TAMBEM NAO TEM NENHUMA MENSAGEM RELACIONADA.
+
+Teste: CSV vazio
+Ação: GERADO O ARQUIVO E EXCLUIDO O CONTEUDO DO MESMO
+Comportamento Esperado: NÃO ACEITA ARQUIVO VAZIO
+Comportamento Observado: QUE NAO MOSTRA NENHUMA MENSAGEM AO ARASTAR O ARQUIVOS VAZIO
+Resultado: PROCEDIMENTO APARENTEMENTE CORRETO.
+
+
