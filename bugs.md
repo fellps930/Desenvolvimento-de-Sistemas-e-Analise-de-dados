@@ -29,4 +29,8 @@ Comportamento Esperado: NÃO ACEITA ARQUIVO VAZIO
 Comportamento Observado: QUE NAO MOSTRA NENHUMA MENSAGEM AO ARASTAR O ARQUIVOS VAZIO
 Resultado: PROCEDIMENTO APARENTEMENTE CORRETO.
 
+Realizado na aba coordenação testes de busca com maiúsculas e minúsculas, apenas a palavra "programação" apresentou alguma falha.
+
+Também realizado teste na aba da coordenaçao, filtrando sem dia mostrou todos os professores. Pode ser útil.
+
 
