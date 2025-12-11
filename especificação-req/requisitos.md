@@ -1,6 +1,7 @@
 #  👤 Histórias de Usuário
-Como [tipo de usuário], eu quero [ação desejada], para que [benefício].
-Como [tipo de usuário], eu quero [ação desejada], para que [benefício].
+Como [Professor], eu quero [colocar a carga horário no qual tenho disponível], para que [minha grade de aulas seja feita de forma simples calculando o limite de hora aula no qual tenho].
+Como [coodernação], eu quero [importar via CSV os dados de vários professores], para que [ possa cadastrar todos os professores rapidamente no sistema.]
+
 
 # ⚙️ Requisitos Funcionais
 1. O sistema deve exportar relatórios (PDF/CSV) e enviar para coordenadores responsáveis.
