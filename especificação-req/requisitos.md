@@ -1,0 +1,16 @@
+#  👤 Histórias de Usuário
+Como [Professor], eu quero [colocar a carga horário no qual tenho disponível], para que [minha grade de aulas seja feita de forma simples calculando o limite de hora aula no qual tenho].
+Como [coodernação], eu quero [importar via CSV os dados de vários professores], para que [ possa cadastrar todos os professores rapidamente no sistema.]
+
+
+# ⚙️ Requisitos Funcionais
+1. O sistema deve exportar relatórios (PDF/CSV) e enviar para coordenadores responsáveis.
+2. O sistema deve registrar se existe plano de aula associado à data/horário e permitir upload/visualização de anexos.
+3. O sistema deve ter interface para mapear disciplinas e professores, com sugestões automáticas baseadas em disponibilidade e carga horária, além disso bloquear automaticamente que exceda carga máxima do professor.
+4. O sistema deve conseguir cadastrar os professores disponíveis juntamente com suas competências
+
+# 🧱 Requisitos Não Funcionais
+1. O sistema deverá funcionar com a quantidadade mínima de cliques possíveis,como no caso: 3 cliques
+2. O layout deverá ser intuitivo,com um design flat e cores genéricas
+3. A aplicação deverá ser capaz de guardar os dados dos professores,juntamente com os horários disponíveis dos professores
+4. O comportamento deverá ser de maneira intuitiva,eficiente e qualquer usuário poderá utilizar o sistema,e se guiar na aplicação de maneira intuitiva
