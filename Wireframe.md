@@ -5,3 +5,6 @@
 
 # 🧩 Wireframe (Esboço Estrutural)
   
+![Alt image](https://imgur.com/oAWaBcy)
+![Alt image](https://i.imgur.com/ewG7owQ.jpeg)
+![Alt image]()
