@@ -8,7 +8,7 @@ Separar duas tabelas com apitidão dos professores e outra tabela com horários 
 Aba para verificar o limite de horário dos professores de acordo com o limite estabelecido de hora aula 
 Colocar no site um gerador de horário dos professores
 Aba para coodernação
-Aba para gerar apitidão
+Aba para gerar aptidão
 Aba para gerar horário
 Em outra aba realiza a união de todos os horários e as apitidão
 Restrição - Não podemos armazenar dados dos professores por conta da LGPD
