@@ -26,6 +26,6 @@ Restrição - Não podemos armazenar dados dos professores por conta da LGPD
 - Campo para anexar todos os CSVs de uma vez
 - A aplicação deverá ser capaz de guardar os dados dos professores,juntamente com os horários disponíveis dos professores
 - O comportamento deverá ser de maneira intuitiva,eficiente e qualquer usuário poderá utilizar o sistema,e se guiar na aplicação de maneira intuitiva
-- 
+
 
 
