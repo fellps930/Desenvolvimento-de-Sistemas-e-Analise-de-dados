@@ -1,14 +1,14 @@
 #  Tabela automatizada de horários
 ## Apresentação do produto
 
-Uma site que irá receber um CSV com o horários dos professores e vai tentar calcular o melhor horário para adicionar uma nova disciplina junto a apitidão de cada professor para poder ministrar.
+ O projeto foi pensado em conjunto na disciplina de desenvolvimento de sistema aplicado a dados, no qual desde o princípio foi pensando a avaliação gradual a partir do conteúdo. Nesse sentido, foi convocado Aedris Neto para poder ser o objeto de discursão sobre as indagações em torno do processo de trabalho. A partir disso tivemos um mapeamento em torno da rotina de trabalho e o alinhamento do que poderia ser melhorado em torno de um desenvolvimento de um sistema que suprar uma lacuna. O conjunto foi programado pelo professor Gabriel Uzeda a partir de uma base que o mesmo já tinha em torno do seu site, no qual se encontra no seguinte link: https://uzedasolucoes.com.br/efg/alocacao.html. O site foi pensado para poder otimizar a rotina em torno dos horários dos professores no qual irá receber um CSV com o horários dos mesmos e vai tentar calcular o melhor horário para adicionar uma nova disciplina junto a apitidão de cada discente para poder ministrar.O projeto detalhou em cada parte como os componente foi pensado e desenvolvido sem que haja armazenamento de dados para não acarretar no descumprimento da LGPD.  
 
 ## Como iremos implementar isso? 
 Separar duas tabelas com apitidão dos professores e outra tabela com horários do professores. 
 Aba para verificar o limite de horário dos professores de acordo com o limite estabelecido de hora aula 
 Colocar no site um gerador de horário dos professores
 Aba para coodernação
-Aba para gerar apitidão
+Aba para gerar aptidão
 Aba para gerar horário
 Em outra aba realiza a união de todos os horários e as apitidão
 Restrição - Não podemos armazenar dados dos professores por conta da LGPD
@@ -24,7 +24,8 @@ Restrição - Não podemos armazenar dados dos professores por conta da LGPD
 
 ### Não funcionais 
 - Campo para anexar todos os CSVs de uma vez
-- 
-- 
+- A aplicação deverá ser capaz de guardar os dados dos professores,juntamente com os horários disponíveis dos professores
+- O comportamento deverá ser de maneira intuitiva,eficiente e qualquer usuário poderá utilizar o sistema,e se guiar na aplicação de maneira intuitiva
+
 
 
